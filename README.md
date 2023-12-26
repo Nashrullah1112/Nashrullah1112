@@ -17,11 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- A passionate Self-taught Front-end developer & Software Quality Assurance
+- Currently learning Web Development & QA by Self
 - Personal website
-- I’m currently open for an Intern or a new job opportunity, this i
+- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
